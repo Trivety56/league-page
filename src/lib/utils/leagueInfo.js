@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcom to THE PSK Dynasty League Page! This page exists to keep track of the successes and failures of the brothers competing in this league.</p>
+  <p>Welcome to THE PSK Dynasty League Page! This page exists to keep track of the successes and failures of the brothers competing in this league.</p>
   <p>In this league 10 of the best PSK has to offer compete (oh plus Aayush and Travis) in a weekly game of fantasy football to determine who is the Football God among men.</p>
   <p>This Dynasty league was established in 2022 with 12 members. The inaugral season ended with the tenacious Tat Modi being crowned Champ and the atrocious Aayush Dixit was crowned the first Shit Brick.</p>
   <p>Who shall rise to the top and fall to bottom in 2023?</p>
