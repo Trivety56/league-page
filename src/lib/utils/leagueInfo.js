@@ -8,9 +8,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to THE PSK Dynasty League Page! This page exists to keep track of the successes and failures of the brothers competing in this league.</p>
-  <p>In this league 10 of the best PSK has to offer compete (oh plus Aayush and Travis) in a weekly game of fantasy football to determine who is the Football God among men.</p>
-  <p>This Dynasty league was established in 2022 with 12 members. Many men have vied for the crown but only two have snatched it so far wit Tat (2022) and Bobby (2023). Not all set their goals as high though as Aayush (2022) and Elijah (2023) sank to the lowest of lows.</p>
-  <p>Who shall rise to the top and fall to bottom in 2024?</p>
+  <p>In this league 12 of the best PSK has to offer compete in a weekly game of fantasy football to determine who is the Football God among men.</p>
+  <p>This Dynasty league was established in 2022 with 12 members. Many men have vied for the crown but only three have snatched it so far with Tat (22), Bobby (23), and Aayush (25). Not all set their goals as high though as Aayush (22), Elijah (23), and Arjun (24) sank to the lowest of lows.</p>
+  <p>Who shall rise to the top and fall to bottom in 2025?</p>
   
 `;
 
